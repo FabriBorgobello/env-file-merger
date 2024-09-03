@@ -13,7 +13,7 @@ This Node.js script merges multiple `.env` files into a single `.env` file. It's
 Place your `.env` files in the root directory of the script and run the script using Node.js:
 
 ```sh
-node script.js
+node index.js
 ```
 
 The script will merge the content from the specified files into the base `.env` file, retaining any existing values.
